@@ -1,1 +1,1 @@
-46
+console.log("Hello from @workspace/scripts");
